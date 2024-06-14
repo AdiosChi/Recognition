@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 62d94639213e1094eb32ffb5b41b35a4, type: 3}
+  m_Name: New Character Data Base
+  m_EditorClassIdentifier: 
+  character:
+  - characterName: Warrior
+    characterSprite: {fileID: 21300000, guid: 55978b4ed73eea74a96a94a9f4b1aa0a, type: 3}
+  - characterName: Archer
+    characterSprite: {fileID: 21300000, guid: 7abdd41d0df51a349825f0db7c84ded7, type: 3}
+  - characterName: Wizard
+    characterSprite: {fileID: 21300000, guid: 8ded9ac66554c5c45a31c0bb72d13edc, type: 3}
